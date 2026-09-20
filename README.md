@@ -12,7 +12,7 @@ O objetivo deste projeto prático é aplicar conceitos de lógica de programaç�
 ## ⚙️ Como Executar
 1. Certifica-te de que tens o Python instalado na tua máquina.
 2. Faz o clone deste repositório:
-   https://github.com/reiirique9-max/sistema-gestao-tickets.git
+   https://github.com/reirique9-max/sistema-gestao-tickets.git
 3. Navega até à pasta do projeto e executa:
 
 ## 👨‍💻 Autor
